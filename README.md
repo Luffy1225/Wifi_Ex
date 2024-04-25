@@ -5,7 +5,7 @@
 
 ## Setup
 ```shell script
-git clone (https://github.com/Luffy1225/Wifi_Ex.git)
+git clone https://github.com/Luffy1225/Wifi_Ex.git
 pip install -r requirements.txt
 ```
 
