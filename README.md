@@ -4,12 +4,14 @@
 
 
 ## Setup
+Clone and Install Script
 ```shell script
 git clone https://github.com/Luffy1225/Wifi_Ex.git
 pip install -r requirements.txt
 ```
 
 ## Run
+Run the script
 ```shell script
 python start.py
 ```
