@@ -1,6 +1,6 @@
 
 # WIFI-Ex
-提供用戶取得這台電腦曾經連線過的網路SSID與密碼，並記錄到txt檔中
+提供用戶取得這台電腦曾經連線過的網路SSID與密碼，並記錄到txt檔中 \
 Provide the user with the SSIDs and passwords of the networks this computer has previously connected to, and record them in a txt file.
 
 
